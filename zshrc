@@ -8,7 +8,6 @@ setopt HIST_IGNORE_SPACE
 #Prompt configureation
 autoload colors; colors
 
-export PATH=$PATH:/media/data/repos/git-db
 export EDITOR=vim
 
 alias python=python3
